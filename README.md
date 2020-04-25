@@ -10,6 +10,9 @@ Using the above obtained analysis of the sentiment in review text, we can decide
   
 And after determining the type of review, it can be prioritized to be looked upon by the admin, with more critical or poorly rated reviews coming first on the list, which can be then read and worked upon.
 
+# How to Use  
+Open *Sentiment_Analysis.ipynb* to see the code with both the training and prediction models.
+
 # Technology Stack
 Python Language  
 Tensorflow deep learning framework  
