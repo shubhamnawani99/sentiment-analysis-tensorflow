@@ -11,10 +11,8 @@ Using the above obtained analysis of the sentiment in review text, we can decide
 And after determining the type of review, it can be prioritized to be looked upon by the admin, with more critical or poorly rated reviews coming first on the list, which can be then read and worked upon.
 
 # How to Use  
-Download the *Musical_Instruments_5.json* from the files folder.
+Download the all the files in the "files" folder and uplod them to the root of the google collab worksheet  
 Open *Sentiment_Analysis.ipynb* to see the code with both the training and prediction models.  
-After running the training model, upload the prior json file.  
-Run reach block, till you reach the end.
 
 # Technology Stack
 Python Language  
