@@ -11,8 +11,9 @@ Using the above obtained analysis of the sentiment in review text, we can decide
 And after determining the type of review, it can be prioritized to be looked upon by the admin, with more critical or poorly rated reviews coming first on the list, which can be then read and worked upon.
 
 # How to Use  
-Download the all the files in the "files" folder and uplod them to the root of the google collab worksheet  
+Download the all the files in the "files" folder and upload them to the root of the google collab worksheet.  
 Open *Sentiment_Analysis.ipynb* to see the code with both the training and prediction models.  
+The files vecs.tsv and meta.tsv can be used with the embedding projector (Details Below)  
 
 # Technology Stack
 Python Language  
